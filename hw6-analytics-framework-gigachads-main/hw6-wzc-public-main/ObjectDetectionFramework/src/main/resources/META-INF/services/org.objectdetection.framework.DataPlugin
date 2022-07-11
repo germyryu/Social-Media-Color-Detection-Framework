@@ -1,0 +1,6 @@
+# A list of data plugins used by the framework.
+org.objectdetection.plugin.data.FrameCaptureData
+org.objectdetection.plugin.data.MemesData
+org.objectdetection.plugin.data.RedditData
+org.objectdetection.plugin.data.InstagramData
+org.objectdetection.plugin.data.TwitterData

@@ -1,0 +1,5 @@
+# A list of visualization plugins used by the framework.
+org.objectdetection.plugin.visualization.PieChartVisualization
+org.objectdetection.plugin.visualization.HeatMapVisualization
+org.objectdetection.plugin.visualization.WordCloudVisualization
+org.objectdetection.plugin.visualization.BarChartVisualization

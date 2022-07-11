@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.infotext {
+  padding-top: 2vmin;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.infotext span {
+  padding-top: 2vmin;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: crimson;
+}
+
+.button {
+  background-color: #2ba805;
+  -webkit-border-radius: 60px;
+  border-radius: 60px;
+  border: none;
+  color: #eeeeee;
+  cursor: pointer;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 1vmin; 
+	margin-bottom:1vmin;
+}

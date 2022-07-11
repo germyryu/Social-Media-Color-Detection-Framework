@@ -1,0 +1,30 @@
+{
+    "Frame Capture Plugin":
+    {
+        "num": 50,
+        "videoPath": "demo_video/demo.mov",
+        "picturePath": "demo_video/"
+    },
+
+    "Memes Plugin": {
+        "num": 10
+    },
+
+    "Heat Map Plugin": {
+        "num": 6,
+        "objects": ["Dog", "Water", "Moon"]
+    },
+
+    "Instagram Plugin": {
+        "id": "elonmusk",
+        "num": 10
+    },
+
+    "Bar Chart Plugin": {
+        "num": 7
+    },
+
+    "Twitter Plugin": {
+        "id": "762799939395158016"
+    }
+}
